@@ -1,0 +1,3 @@
+export {
+	getResults
+} from './searchActions';

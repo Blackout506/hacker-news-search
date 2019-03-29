@@ -1,0 +1,9 @@
+.ResultView {
+  font-size: 22px;
+  border: 1px solid white;
+  margin-bottom: 12px;
+}
+
+.ResultView p {
+  line-height: 70%;
+}
